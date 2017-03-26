@@ -1,4 +1,4 @@
-# Proposal - .NET Library and Tutorial Git Book (Work on Progress Proposal)
+# Proposal - .NET Library and Tutorial Git Book
 
 A Dash .NET library and documentation in the form of a tutorial book similar to [Programming the Blockchain](https://programmingblockchain.gitbooks.io/programmingblockchain/content/).
 
@@ -14,7 +14,7 @@ We are requesting **three months of payments of x DASH** for this project.  This
 
 > "Having lots of people involved with Dash is what makes it successful!" - Evan Duffield
 
-The primary motivation for this project is to increase the value of Dash by getting more developers from diverse languages into the Dashes ecosystem.
+The primary motivation for this project is to increase the value of Dash by getting more developers from diverse languages into the Dash ecosystem.
 
 * allow people to use the languages they are familier with to interact and build amazing projects with Dash
 
